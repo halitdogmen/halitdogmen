@@ -10,5 +10,4 @@ Hi, I'm Halit 👋
 
 <br />
 
-[![Halit's github stats](https://github-readme-stats.vercel.app/api?username=halitdogmen&show_icons=true)](https://github.com/halitdogmen)
 
